@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi I am Mariyam👋
 
-<!--
-**Mariyam-TM/Mariyam-TM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Public policy graduate | 📊 Trainee Data Analyst @ Atom Camp  
+🔍 Passionate about data, research, and driving social impact.  
+💬 Skilled in Excel, SQL, Python, Tableau, QGIS, SPSS, STATA and policy analysis.  
+📚 Researched gender inequality, women’s entrepreneurship & poverty alleviation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Interests
+- Python, SQL, Excel, Tableau, QGIS
+- SPSS and STATA  
+- Data visualization & storytelling  
+- Gender, development & inclusive policy
+
+---
+
+## 📫 Let’s Connect
+[LinkedIn](https://www.linkedin.com/in/mariyam-tm-887710251/) | [Upwork](https://www.upwork.com/freelancers/~0190672d3b4c800cc0)
+
+
+
+
